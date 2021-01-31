@@ -46,10 +46,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emirotin/node-template.git"
+    "url": "git+https://github.com/gavk/node-template.git"
   },
   "bugs": {
-    "url": "https://github.com/emirotin/node-template/issues"
+    "url": "https://github.com/gavk/node-template/issues"
   },
-  "homepage": "https://github.com/emirotin/node-template#readme"
+  "homepage": "https://github.com/gavk/node-template#readme"
 }
